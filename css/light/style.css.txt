@@ -1,0 +1,5 @@
+div.box-comm {
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 5px;
+	padding: 3px;
+}

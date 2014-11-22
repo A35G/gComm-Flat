@@ -1,0 +1,1 @@
+[{"name_guest":"Giulia","place_guest":"France","period_guest":"September, 2014","text_guest":"Beautifuuuulll"},{"name_guest":"Paul","place_guest":"England","period_guest":"August 18, 2014","text_guest":"This is a beautiful place!"}]

@@ -1,0 +1,72 @@
+div.gcomm-guest {
+	border: 0px solid #0000FF;
+	border-left: 1px solid #E0E0E0;
+	border-top: 1px solid #E0E0E0;
+	width: 90%;
+	margin: 0 auto;
+	padding: 5px;
+	font-family: sans-serif,Verdana,Helvetica,Arial;
+	color: #000;
+	font-size: 12px;
+	-webkit-box-shadow: 3px 3px 2px 0px rgba(50, 50, 50, 0.7);
+	-moz-box-shadow:    3px 3px 2px 0px rgba(50, 50, 50, 0.7);
+	box-shadow:         3px 3px 2px 0px rgba(50, 50, 50, 0.7);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+div.gcomm-box {
+	width: 98%;
+	/*border-bottom: 1px solid #CCC;*/
+	margin: 10px auto;
+}
+
+div.gcomm-box span.gcomm-info {
+	font-weight: bold;
+	border-bottom: 1px dashed #E0E0E0;
+	text-shadow: 1px 2px 2px rgba(200, 200, 200, 1);
+}
+
+div.gcomm-nav {
+	width: 98%;
+	margin: 5px auto;
+}
+
+div.gcomm-nav a {
+	text-decoration: none;
+	color: #000;
+}
+
+div.gcomm-nav div#gcomm-prev {
+	width: 20%;
+	float: left;
+	margin-bottom: 5px;
+}
+
+div.gcomm-nav div#gcomm-npage {
+	width: 60%;
+	float: left;
+	margin-bottom: 5px;
+}
+
+div.gcomm-nav div#gcomm-next {
+	width: 20%;
+	float: right;
+	text-align: right;
+	margin-bottom: 5px;
+}
+
+hr.indiv {
+	margin: 20px 0;
+  border: 0;
+  height: 1px;
+  background-image:	-webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+  background-image:	-moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+  background-image:	-ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+  background-image:	-o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+}
+
+.clear {
+	clear: both;
+}
